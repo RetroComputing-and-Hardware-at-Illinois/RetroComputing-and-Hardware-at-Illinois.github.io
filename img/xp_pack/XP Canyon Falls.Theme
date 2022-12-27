@@ -1,0 +1,205 @@
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%Windows XP\Icons\XP My Computer.ico,0
+
+[CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%Windows XP\Icons\XP Network Neighborhood.ico,0
+
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%ThemeDir%Windows XP\Icons\XP Recycle Bin Full.ico,0
+empty=%ThemeDir%Windows XP\Icons\XP Recycle Bin Empty.ico,0
+
+[CLSID\{450D8FBA-AD25-11D0-98A8-0800361B1103}\DefaultIcon]
+DefaultValue=%ThemeDir%Windows XP\Icons\XP My Documents.ico,0
+
+[Additional Icons]
+Programs=%ThemeDir%Windows XP\Icons\XP Start Programs.ico,0
+Favorites=%ThemeDir%Windows XP\Icons\XP Favorites Folder.ico,0
+Settings=%ThemeDir%Windows XP\Icons\XP Start Settings.ico,0
+Find=%ThemeDir%Windows XP\Icons\XP Find.ico,0
+Help=%ThemeDir%Windows XP\Icons\XP Help.ico,0
+Run=%ThemeDir%Windows XP\Icons\XP Run.ico,0
+Suspend=%ThemeDir%Windows XP\Icons\XP Suspend.ico,0
+UnDock=%ThemeDir%Windows XP\Icons\XP Undock.ico,0
+Shutdown=%ThemeDir%Windows XP\Icons\XP Shut Down.ico,0
+Logoff=%ThemeDir%Windows XP\Icons\XP Log Off.ico,0
+FolderClosed=%ThemeDir%Windows XP\Icons\XP Folder Closed.ico,0
+ProgramGroup=%ThemeDir%Windows XP\Icons\XP Program Group.ico,0
+FolderOpened=%ThemeDir%Windows XP\Icons\XP Folder Open.ico,0
+ActiveXCache=%ThemeDir%Windows XP\Icons\XP ActiveX Cache.ico,0
+ControlPanel=%ThemeDir%Windows XP\Icons\XP Control Panel.ico,0
+DialUpNetworking=%ThemeDir%Windows XP\Icons\XP Dial-Up Networking.ico,0
+Printers=%ThemeDir%Windows XP\Icons\XP Printers.ico,0
+History=%ThemeDir%Windows XP\Icons\XP URL History.ico,0
+ScheduledTasks=%ThemeDir%Windows XP\Icons\XP Scheduled Tasks.ico,0
+Subscriptions=%ThemeDir%Windows XP\Icons\XP Offline Web Pages.ico,0
+StartDocuments=%ThemeDir%Windows XP\Icons\XP Start Documents.ico,0
+FileApplication=%ThemeDir%Windows XP\Icons\XP MS-DOS Application.ico,0
+FileShortcut=
+FileShare=%ThemeDir%Windows XP\Icons\XP Sharing Overlay.ico,0
+Desktop=%ThemeDir%Windows XP\Icons\XP Desktop.ico,0
+EntireNetwork=%ThemeDir%Windows XP\Icons\XP Entire Network.ico,0
+Workgroup=%ThemeDir%Windows XP\Icons\XP Workgroup.ico,0
+FileAudioCD=%ThemeDir%Windows XP\Icons\XP Audio CD.ico,0
+FileDefaultIcon=%ThemeDir%Windows XP\Icons\XP Default.ico,0
+FileDefaultDoc=%ThemeDir%Windows XP\Icons\XP Default Document.ico,0
+Drive525=%ThemeDir%Windows XP\Icons\XP Floppy Drive.ico,0
+Drive35=%ThemeDir%Windows XP\Icons\XP Floppy Drive.ico,0
+DriveRemove=%ThemeDir%Windows XP\Icons\XP Removable Drive.ico,0
+DriveHard=%ThemeDir%Windows XP\Icons\XP Hard Drive.ico,0
+DriveNetwork=%ThemeDir%Windows XP\Icons\XP Network Drive Connected.ico,0
+DriveNetworkOff=%ThemeDir%Windows XP\Icons\XP Network Drive Offline.ico,0
+DriveCD=%ThemeDir%Windows XP\Icons\XP CD ROM Drive.ico,0
+DriveRAM=%ThemeDir%Windows XP\Icons\XP Ram.ico,0
+Taskbar=%ThemeDir%Windows XP\Icons\XP Taskbar.ico,0
+Printer=%ThemeDir%Windows XP\Icons\XP Printer.ico,0
+InternetExplorer=%ThemeDir%Windows XP\Icons\XP Internet Explorer.ico,0
+Briefcase=
+NetworkComputer=%ThemeDir%Windows XP\Icons\XP Network Computer.ico,0
+WebFolders=%ThemeDir%Windows XP\Icons\XP Web Folders.ico,0
+FileBatch=%ThemeDir%Windows XP\Icons\XP Batch.ico,0
+FileSystem=%ThemeDir%Windows XP\Icons\XP System File.ico,0
+FileSystemSettings=%ThemeDir%Windows XP\Icons\XP Configuration.ico,0
+CommonProgramGroup=%ThemeDir%Windows XP\Icons\XP Users Program Group.ico,0
+NetworkTree=
+FileGroupInternet=%ThemeDir%Windows XP\Icons\XP Webpage Icon.ico,0
+FileGroupText=%ThemeDir%Windows XP\Icons\XP Text File.ico,0
+FileGroupDocument=%ThemeDir%Windows XP\Icons\XP Document.ico,0
+FileGroupImage=%ThemeDir%Windows XP\Icons\XP Image.ico,0
+FileGroupSound=%ThemeDir%Windows XP\Icons\XP Sound File.ico,0
+FileGroupMovie=%ThemeDir%Windows XP\Icons\XP Movie File.ico,0
+FileGroupCompression=%ThemeDir%Windows XP\Icons\XP WinZip.ico,0
+
+[Control Panel\Colors]
+ActiveTitle=0 82 222
+Background=0 78 152
+Hilight=49 106 197
+HilightText=0 0 0
+TitleText=255 255 255
+Window=255 255 255
+WindowText=0 0 0
+Scrollbar=210 225 249
+InactiveTitle=44 175 255
+Menu=255 255 242
+WindowFrame=127 157 185
+MenuText=0 0 0
+ActiveBorder=238 237 220
+InactiveBorder=238 237 220
+AppWorkspace=112 145 224
+ButtonFace=238 237 220
+ButtonShadow=202 198 175
+GrayText=192 192 192
+ButtonText=0 0 0
+InactiveTitleText=255 255 255
+ButtonHilight=255 255 255
+ButtonDkShadow=128 128 128
+ButtonLight=250 250 245
+InfoText=0 0 0
+InfoWindow=255 255 255
+ButtonAlternateFace=181 181 181
+GradientActiveTitle=0 82 222
+GradientInactiveTitle=44 175 255
+HotTrackingColor=0 0 255
+
+[Control Panel\Cursors]
+Arrow=
+Help=
+AppStarting=
+Wait=
+NWPen=
+No=
+SizeNS=
+SizeWE=
+Crosshair=
+IBeam=
+SizeNWSE=
+SizeNESW=
+UpArrow=
+Hand=
+SizeAll=
+
+[Control Panel\Desktop]
+Wallpaper=%ThemeDir%Windows XP\Wallpaper\XP Canyon Falls.jpg
+Pattern=
+TileWallpaper=0
+WallpaperStyle=2
+ScreenSaveActive=0
+
+[Boot]
+SCRNSAVE.EXE=
+
+[AppEvents\Schemes\Apps\.Default\.Default\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Default.wav
+
+[AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Error.wav
+
+[AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\MenuPopup\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Open\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Close\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Ringout\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Ring Out.wav
+
+[AppEvents\Schemes\Apps\.Default\RingIn\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Ring In.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Default.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Exclamation.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Windows Exit.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Critical Stop.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Default.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Windows Start.wav
+
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+DefaultValue=%ThemeDir%Windows XP\Sounds\XP Empty Recycle Bin.wav
+
+[AppEvents\Schemes\Apps\.Default\MailBeep\.Current]
+DefaultValue=%WinDir%MEDIA\NOTIFY.WAV
+
+[Metrics]
+IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 248 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 62 0 0 0 116 239 115 0 255 255 255 247 80 0 0 0 188 1
+NonclientMetrics=84 1 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 62 0 0 0 116 239 115 0 255 255 255 247 80 0 0 0 188 1 15 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 34 84 97 104 111 109 97 0 32 83 101 114 105 102 0 62 0 0 0 116 239 115 0 255 255 255 247 80 0 0 0 188 1 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 62 0 0 0 116 239 115 0 255 255 255 247 80 0 0 0 188 1 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 62 0 0 0 116 239 115 0 255 255 255 247 80 0 0 0 188 1 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 62 0 0 0 116 239 115 0 255 255 255 247 80 0 0 0 188 1
+
+[Logos]
+Startup=%ThemeDir%Windows XP\Logos\logo.sys
+Shutdown=
+Wait=
+
+[WebView]
+WVLEFT.BMP=
+WVLINE.GIF=
+WVLOGO.GIF=
+
+[MasterThemeSelector]
+MTSM=DABJDKT

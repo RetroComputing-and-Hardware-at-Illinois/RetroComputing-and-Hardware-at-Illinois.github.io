@@ -23,10 +23,53 @@ body{
     position: absolute;
     z-index: 9;
     text-align: center;
+    width: 75px;
+    height: 120px;
+
+    
+}
+
+#draggable2{
+    position: absolute;
+    z-index: 9;
+    text-align: center;
+    width: 75px;
+    height: 120px;
+    left: 10px;
+    top: 130px;
+}
+
+#draggable3{
+    position: absolute;
+    z-index: 9;
+    text-align: center;
+    width: 75px;
+    height: 120px;
+    left: 10px;
+    top: 250px;
 }
 
 #draggableicon{
     padding: 10px;
     cursor: pointer;
     z-index: 10;
+}
+
+#bottomdiv{
+    background: linear-gradient(to bottom,rgba(74,108,211,1) 0%, rgba(100,145,227,1) 5%, rgba(62,93,214,1) 10%, rgba(62,93,214,1) 93%, rgba(53,81,192,1) 97%);
+    position:fixed;
+    bottom:0;
+    width: 100vw;
+    height: 32px;
+    margin:0 -10px;
+}
+
+#bottomtext{
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    margin: auto;
+    color: white;
+    text-shadow: 1px 1px #111111;
+    position:absolute;
+    top:10%;
+    padding-left: 10px;
 }
