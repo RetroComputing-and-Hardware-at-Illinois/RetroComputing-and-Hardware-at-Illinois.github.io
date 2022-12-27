@@ -1,0 +1,32 @@
+body{
+    background-image: url('../img/meadow.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 10px;
+    height: 100%;
+    overflow: hidden;
+}
+
+#iconimg {
+    width: 50px;
+}
+#icontxt {
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    color: white;
+    text-shadow: 1px 1px #111111;
+    text-align: center;
+
+}
+
+#draggable{
+    position: absolute;
+    z-index: 9;
+    text-align: center;
+}
+
+#draggableicon{
+    padding: 10px;
+    cursor: pointer;
+    z-index: 10;
+}
