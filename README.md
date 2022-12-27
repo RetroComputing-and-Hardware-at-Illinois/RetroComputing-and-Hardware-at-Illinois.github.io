@@ -1,4 +1,5 @@
 # ventanas
+![example usage](img/readmeimg.jpg)
 Website for UIUC Retrocomputing &amp; Hardware RSO
 
 ## img sources
