@@ -11,8 +11,14 @@
             $( "#draggable" ).draggable({ grid: [ 0,0]});
             $( "#draggable2" ).draggable({ snap: true });
             $( "#draggable3" ).draggable({ snap: true });
+            $( "#draggablewindow" ).draggable({handle: "#draggablebar"});
           } );
           </script>
+  <!-- Import element definition -->
+  <script
+    type="module"
+    src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+  ></script>
     </head>
     <body>
         <div id="draggable">
@@ -24,14 +30,29 @@
             <div id="icontxt">Internet </br>Explorer</div>
         </div>
         <div id="draggable3">
-            <div id="draggableicon"><img id="iconimg" src="../img/xp_pack/Windows XP/Icons/XP Document.ico" alt="Document"></div>
-            <div id="icontxt">Document</div>
+            <div id="draggableicon"><img id="iconimg" src="../img/xp_pack/Windows XP/Icons/XP Document.ico" alt="Document" onclick="showWindow('draggablewindow')"></div>
+            <div id="icontxt">Readme</div>
         </div>
-        <div id="bottomdiv">
-            <div id="bottomtext">
-                💀 BRUH OS
+        <div id="draggablewindow">
+            <div id="draggablebar">
+                🦖 click me to move
+                <button class="closebutton" onclick="closeWindow('draggablewindow')"><b>⨉</b></button>
+                <button class="closebutton" onclick="enlargeWindow('windowcontent')" style="background-color: rgb(62,93,214);"><b>▢</b></button>
+                <button class="closebutton" onclick="minimizeWindow('draggablewindow')" style="background-color: rgb(62,93,214);"><b>_</b></button>
+            </div>
+            <div id="windowcontent">
+                <zero-md src="https://raw.githubusercontent.com/wonjongbot/ventanas/main/README.md"></zero-md>
             </div>
         </div>
+        <div id="bottomdiv">
+            <div class="bottomtext">
+                <img style="vertical-align:text-top; padding-right:8px;" src="../img/BlockI-Logo-Full-Color-RGB.png" alt="icon" height="20px;">
+                Start
+            </div>
+            <div id="bottomapp" class="bottomapp" onclick="showWindow('draggablewindow')">🦖 click me to move</div>
+            <div class="bottomtime"><span id="time"> </span></div>
+        </div>
+        <script src="../js/home.js"></script>
     </body>
 </html>
     

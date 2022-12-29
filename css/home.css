@@ -64,12 +64,98 @@ body{
     margin:0 -10px;
 }
 
-#bottomtext{
+.bottomtext{
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    color: white;
+    text-shadow: 1px 1px #111111;
+    position:relative;
+    top:10%;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor:pointer;
+    background: linear-gradient(180deg, rgba(84,125,62,1) 2%, rgba(156,190,143,1) 6%, rgba(99,157,71,1) 13%, rgba(110,175,72,1) 91%, rgba(68,110,48,1) 98%);
+    padding-top:6px;
+    padding-bottom:6px;
+    margin: -3px;
+    width: 5vw;
+    font-size: 20px;
+    border-radius: 0px 12px 12px 0px;
+    float: left;
+}
+.bottomtime{
     font-family: 'Arial', 'Helvetica', 'sans-serif';
     margin: auto;
     color: white;
     text-shadow: 1px 1px #111111;
-    position:absolute;
+    top:25%;
+    padding-right: 10px;
+    float: right;
+    position:relative;
+}
+.bottomapp{
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    color: white;
+    text-shadow: 1px 1px #111111;
+    position:relative;
     top:10%;
-    padding-left: 10px;
+    padding-left: 20px;
+    cursor:pointer;
+    background: linear-gradient(180deg, rgba(96,134,249,1) 4%, rgba(106,144,249,1) 11%, rgba(97,137,250,1) 19%, rgba(100,136,250,1) 91%, rgba(64,92,203,1) 98%);
+    padding-top:2px;
+    padding-bottom:8px;
+    margin: -3px;
+    width: 180px;
+    font-size: 16px;
+    border-radius: 6px 6px 6px 6px;
+    float: left;
+    left: 32px;
+    display: block;
+}
+
+#draggablewindow{
+    left:20vw;
+    top: 5vh;
+    display: block;
+    position: absolute;
+    z-index:11;
+    border-radius: 9px 9px 0px 0px;
+    background: linear-gradient(to bottom,rgba(74,108,211,1) 0px, rgba(100,145,227,1) 2px, rgba(62,93,214,1) 3px, rgba(62,93,214,1) 53px, rgba(53,81,192,1) 97px);
+}
+
+#draggablebar{
+    z-index: 12;
+    cursor: default;
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    color: white;
+    text-shadow: 1px 1px #111111;
+    margin-left: 9px;
+    margin-right: 9px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+
+}
+#windowcontent{
+    margin: 4px;
+    padding: 20px;
+    background: white;
+    width: 60vw;
+    height: 80vh;
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    color: black;
+    overflow: auto;
+}
+
+.closebutton{
+    background-color: rgb(200,76,46);
+    border: 1px solid;
+    border-radius: 5px;
+    color: white;
+    text-align:center;
+    font-size: 16px;
+    cursor: pointer;
+    float: right;
+    width: 24px;
+    height: 24px;
+    margin-left: 4px;
+    font-size: 12px;
 }
