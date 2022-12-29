@@ -6,11 +6,21 @@ function showWindow(windowname){
 function closeWindow(windowname){
     document.getElementById(windowname).style.display="none";
     document.getElementById("bottomapp").style.display="none";
+    document.getElementById("windowcontent").style.width="60vw";
+    document.getElementById("windowcontent").style.height="80vh";
+    document.getElementById("draggablewindow").style.top="5vh";
+    document.getElementById("draggablewindow").style.left="20vw";
 }
 
 function enlargeWindow(contentname){
-    //document.getElementById(contentname).style.width="100vw";
-    //document.getElementById(contentname).style.height="100vh";
+    let outputv = window.innerWidth-40;
+    let outputh = window.innerHeight-112;
+    document.getElementById("windowcontent").style.width=outputv+"px";
+    document.getElementById("windowcontent").style.height=outputh+"px";
+    document.getElementById("draggablewindow").style.top="0px";
+    document.getElementById("draggablewindow").style.left="0px";
+
+
 }
 
 function minimizeWindow(contentname){
