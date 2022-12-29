@@ -6,8 +6,8 @@ function showWindow(windowname){
 function closeWindow(windowname){
     document.getElementById(windowname).style.display="none";
     document.getElementById("bottomapp").style.display="none";
-    document.getElementById("windowcontent").style.width="70vw";
-    document.getElementById("windowcontent").style.height="80vh";
+    document.getElementById("windowcontent").style.width="60vw";
+    document.getElementById("windowcontent").style.height="70vh";
     document.getElementById("draggablewindow").style.top="5vh";
     document.getElementById("draggablewindow").style.left="20vw";
 }
