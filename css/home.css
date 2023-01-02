@@ -97,10 +97,9 @@ body{
     color: white;
     text-shadow: 1px 1px #111111;
     position:relative;
-    top:10%;
+    top:15%;
     padding-left: 20px;
     cursor:pointer;
-    background: linear-gradient(180deg, rgba(96,134,249,1) 4%, rgba(106,144,249,1) 11%, rgba(97,137,250,1) 19%, rgba(100,136,250,1) 91%, rgba(64,92,203,1) 98%);
     padding-top:2px;
     padding-bottom:8px;
     margin: -3px;
@@ -109,9 +108,11 @@ body{
     border-radius: 6px 6px 6px 6px;
     float: left;
     left: 32px;
-    display: block;
 }
 
+#bottomapp{
+    background-image: linear-gradient(180deg, rgba(83,115,198,1) 2%, rgba(37,63,147,1) 4%, rgba(55,84,175,1) 9%, rgba(53,82,179,1) 14%, rgba(53,82,179,1) 95%, rgba(61,79,161,1) 97%);
+}
 #draggablewindow{
     left:20vw;
     top: 5vh;
@@ -143,6 +144,8 @@ body{
     font-family: 'Arial', 'Helvetica', 'sans-serif';
     color: black;
     overflow: auto;
+    min-width: 227.59px;
+    min-height: 170px;
 }
 
 .closebutton{
@@ -158,4 +161,21 @@ body{
     height: 24px;
     margin-left: 4px;
     font-size: 12px;
+}
+
+.snowflake {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top:-10px;
+}
+
+@keyframes fall{
+    from{}
+    to {
+        transform: translateY(100vh);
+        opacity: 0;
+    }
 }

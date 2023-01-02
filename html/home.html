@@ -31,11 +31,11 @@
         </div>
         <div id="draggable3">
             <div id="draggableicon"><img id="iconimg" src="../img/xp_pack/Windows XP/Icons/XP Document.ico" alt="Document" onclick="showWindow('draggablewindow')"></div>
-            <div id="icontxt">Readme</div>
+            <div id="icontxt">Readme.md</div>
         </div>
         <div id="draggablewindow">
-            <div id="draggablebar">
-                🦖 click me to move
+            <div id="draggablebar" ondblclick="enlargeWindow('draggablewindow')">
+                🦖 Readme.md
                 <button class="closebutton" onclick="closeWindow('draggablewindow')" style="background: rgb(200,76,46)"><b>⨉</b></button>
                 <button class="closebutton" onclick="enlargeWindow('draggablewindow')"><b>▢</b></button>
                 <button class="closebutton" onclick="minimizeWindow('draggablewindow')"><b>_</b></button>
@@ -49,7 +49,7 @@
                 <img style="vertical-align:text-top; padding-right:8px;" src="../img/BlockI-Logo-Full-Color-RGB.png" alt="icon" height="20px;">
                 Start
             </div>
-            <div id="bottomapp" class="bottomapp" onclick="showWindow('draggablewindow')">🦖 click me to move</div>
+            <div id="bottomapp" class="bottomapp" onclick="minimizeWindow('draggablewindow')">🦖 Readme.md</div>
             <div class="bottomtime"><span id="time"> </span></div>
         </div>
         <script src="../js/home.js"></script>
