@@ -162,6 +162,31 @@ body{
     height: 24px;
     margin-left: 4px;
     font-size: 12px;
+    padding: 0px;
+}
+
+.closebutton:hover{
+    -moz-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.15);
+    -webkit-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.15);
+    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.15);
+}
+
+.bottomtext:hover{
+    -moz-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.3);
+    -webkit-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.3);
+    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.3);
+}
+
+.bottomapp:hover{
+    -moz-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.3);
+    -webkit-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.3);
+    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.3);
+}
+
+.buttonimages{
+    position: relative;
+    top: -1px;
+    left: -1px;
 }
 
 .snowflake {
