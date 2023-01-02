@@ -1,6 +1,8 @@
 # Retrocomputing and Hardware at Illinois
 
-![cover](https://drive.google.com/file/d/1xUp2OWEWFyYxJLGVbOzkNrDHA1hKa1_Y)
+<p align="center">
+<img src = "https://i.redd.it/80hxyr8x3h6z.jpg"/>
+</p>
 
 ## Introduction
 
