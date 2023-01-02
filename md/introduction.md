@@ -1,4 +1,4 @@
-# Retrocomputing and Hardware at Illinois
+# Retrocomputing and Hardware @ Illinois
 
 <p align="center">
 <img src = "https://i.redd.it/80hxyr8x3h6z.jpg"/>
