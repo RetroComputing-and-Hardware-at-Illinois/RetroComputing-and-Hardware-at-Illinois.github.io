@@ -1,7 +1,7 @@
 # ventanas
 
 ![example usage](https://i.imgur.com/kCZfsEW.png)
-Website for UIUC Retrocomputing &amp; Hardware RSO
+Eyecatching, yet familiar website theme for UIUC Retrocomputing &amp; Hardware RSO
 
 ## img sources
 
