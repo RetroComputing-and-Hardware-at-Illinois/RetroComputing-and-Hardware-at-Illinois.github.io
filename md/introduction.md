@@ -6,10 +6,18 @@
 
 ## Introduction
 
-The Retrocomputing and Hardware at Illinois serves as the place for enthusiasts of retrocomputing/hardware in University of Illinois to learn and have fun. For everyone has an interest in relevant field, they will have fun with vintage computers and hardware and make friends. For members who have a particular interest and have relevant knowledge, there are fun projects mainly related to hardware and FPGA for them to engage and better prepared for coursework.
+Retrocomputing and Hardware at Illinois serves as the place for enthusiasts at UIUC to learn and have fun with vintage computers and hardware. For members who have a particular interest and have relevant knowledge, there are fun projects mainly related to hardware and FPGA for them to engage with and prepare for coursework.
+
+Current topics of interest:
+- Film and early digital photography
+- Videotape (Hi8, VHS, MiniDV)
+- Audiotape and CDs
+- Retro gaming (incl. CRTs)
+- Computers
 
 <p align="center">
 <a href="https://discord.com/invite/zS4Fx8xBSn">Join our Discord!</a>
+<a href="https://www.instagram.com/uiuc_retrotech">Check out our Instagram!</a>
 </p>
 
 ## Chairs
@@ -31,6 +39,4 @@ Atharva Metkar
 Charles Cantrell
 
 ### Membership Director
-
-
-
+Peter Lee
