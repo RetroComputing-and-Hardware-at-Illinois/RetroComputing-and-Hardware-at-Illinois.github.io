@@ -16,21 +16,21 @@ The Retrocomputing and Hardware at Illinois serves as the place for enthusiasts 
 
 ### President
 
-Peizhe Liu
+Sriya Gottiparthi
 
 ### Vice President
 
-Abalus Awudu
+Ben Hall
 
 ### Secretary
 
-Joel Jothiprakasam
+Atharva Metkar
 
 ### Treasurer
 
-Peter Lee
+Charles Cantrell
 
 ### Membership Director
 
-Alizain Bandukwala
+
 
